@@ -1,0 +1,21 @@
+customer_id,age,income,education_level,purchase_amount,category,satisfaction_rating,gender,total_purchases
+1,25,45000,Bachelor,156.75,Electronics,4.2,Male,12
+2,,52000,Master,89.50,Clothing,3.8,Female,8
+3,45,78000,PhD,234.60,Books,4.5,Male,25
+4,29,,Bachelor,67.80,Electronics,,Female,5
+5,35,61000,,123.45,Clothing,3.2,Male,15
+6,38,95000,Master,345.20,Electronics,4.8,Female,35
+7,22,28000,High School,45.30,Books,3.5,Male,3
+8,55,120000,PhD,567.90,Electronics,4.9,Male,48
+9,31,67000,Bachelor,,Clothing,2.8,Female,22
+10,42,85000,Master,178.60,Books,,Male,28
+11,27,39000,Bachelor,98.75,Electronics,3.9,Female,9
+12,,76000,PhD,456.80,Clothing,4.6,Male,41
+13,35,58000,High School,167.45,Books,4.1,Female,18
+14,48,102000,Master,389.30,Electronics,4.7,Male,33
+15,24,33000,Bachelor,76.20,Clothing,,Female,6
+16,39,71000,PhD,298.90,Books,4.3,Male,24
+17,52,115000,,445.60,Electronics,4.8,Female,39
+18,26,41000,High School,134.80,Clothing,3.4,Male,11
+19,33,63000,Master,201.75,Books,4.0,Female,21
+20,44,,Bachelor,222.50,Electronics,4.4,Male,31
